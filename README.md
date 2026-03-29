@@ -16,3 +16,5 @@ This project integrates threat intelligence indicators into Splunk SIEM to detec
 
 ## Author
 Ahmad Taha
+Abedalrhman abedraboo
+yousef nazzal
