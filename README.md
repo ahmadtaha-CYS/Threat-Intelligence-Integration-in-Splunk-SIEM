@@ -15,6 +15,6 @@ This project integrates threat intelligence indicators into Splunk SIEM to detec
 - Python
 
 ## Author
-Ahmad Taha
-Abedalrhman abedraboo
-yousef nazzal
+- Ahmad Taha
+- Abedalrhman abedraboo
+- yousef nazzal
