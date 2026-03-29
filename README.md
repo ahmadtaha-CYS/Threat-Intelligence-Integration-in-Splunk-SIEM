@@ -54,5 +54,6 @@ Threat-Intelligence-Integration-in-Splunk-SIEM/
 ├── SOC-presentation.pdf
 ├── threat-intel.py
 ├── generated-logs.py
-├── ioc_finished.csv
-└── otx_generated_iocs_YYYYMMDD.csv
+├── ioc_finished_with_severity.csv
+├── ioc_after_Threat_Intelligence.csv
+└── network_logs.csv
